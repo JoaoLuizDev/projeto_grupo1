@@ -1,2 +1,16 @@
-# projeto_grupo1
-Projeto Integrador, grupo 1, do curso Portal Tech, oferecido pela Proz Educação, em uma parceria com AWS e Facebook.
+# Projeto Integrador - Grupo 1
+
+
+## Professora: Caroline Medeiros
+
+
+## Alunos: 
+Érica
+
+Helen
+
+João Luiz
+
+Keila
+
+Raphael Rocha
