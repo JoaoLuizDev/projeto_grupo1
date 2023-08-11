@@ -1,4 +1,4 @@
-# Sprint 2
+# Sprint 1
 
 ## Entrega: 
 10/08/2023
