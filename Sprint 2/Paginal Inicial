@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Pagina Inicial</title>
 </head>
 <body>
     <header>
@@ -30,7 +30,7 @@
      </header>
      <div>
         <img
-           src="logo da clinica" 
+           src="foto bebe" 
            width="500px"
            height="200px"
            alt=""
@@ -38,7 +38,7 @@
      </div>
      <div>
         <img
-           src="logo da clinica" 
+           src="foto da clinica" 
            width="200px"
            height="200px"
            alt=""
@@ -68,9 +68,15 @@
         <section>
             <p>Veja também nossos últimos <a href="#">artigos</a></p>
         </section>
-
+        <div>
+         <img
+            src="logo da clinica"  
+            width="150px"
+            height="200px"
+            alt=""
+            /><br />
+         </div>
      </header>
-    
     <footer>
         <p>
            Endereço: Rua cheia de buraco, nº Não tem - Bairro Bem longe -
@@ -82,7 +88,6 @@
            <a href="#">Twitter</a>
         </p>
         <div>
-
         <p>&copy; 2023 - Nome da clínica. Todos os direitos reservados.</p>
      </footer>
 </body>
