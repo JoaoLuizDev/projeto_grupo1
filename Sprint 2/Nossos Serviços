@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nossos Serviços</title>
+</head>
+<body>
+    <header>
+        <div>
+           <img
+              src="logo da clinica" 
+              width="200px"
+              height="200px"
+              alt=""
+              /><br />
+    <main>
+        <section>
+            <h1>Nossos Serviços</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quas! Accusamus, eius at? Cumque quos culpa, possimus modi quia ab pariatur impedit corrupti! Sequi corrupti modi molestiae eligendi laboriosam repellendus!</p>
+        </section>
+        <h2>Agendar consulta</h2>
+        <div>
+            <img
+               src="imagens serviços" 
+               width="200px"
+               height="200px"
+               alt=""
+               /><br />
+         </div>
+                <img
+               src="imagens serviços" 
+               width="200px"
+               height="200px"
+               alt=""
+               /><br />
+         </div>
+                <img
+               src="imagens serviços" 
+               width="200px"
+               height="200px"
+               alt=""
+               /><br />
+         </div>
+         <section>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, enim alias numquam facere exercitationem libero corporis cum consectetur, voluptatem reiciendis nulla. Id fuga ratione labore magnam repellendus nihil ea? Saepe?</p>
+         </section>
+                    <img
+               src="imagens serviços" 
+               width="200px"
+               height="200px"
+               alt=""
+               /><br />
+         </div>
+         <footer>
+            <p>
+               Endereço: Rua cheia de buraco, nº Não tem - Bairro Bem longe -
+               Cidade/Estado
+            </p>
+            <p>Telefone: (00) 0000-0000 | E-mail: clinica@clinica.com</p>
+            <p>
+               Redes Sociais: <a href="#">Facebook</a> | <a href="#">Instagram</a> |
+               <a href="#">Twitter</a>
+            </p>
+            <div>
+               <p>Outra forma de mostrar redes sociais, com ícone da rede.</p>
+               <ul>
+                  <li>
+                     <a
+                        href="https://www.instagram.com/"
+                        target="_blank"
+                        rel="noreferrer noopener"
+                        data-testid="linkElement"
+                        ><img alt="Instagram"
+                        /></a>
+                  </li>
+                  <li>
+                     <a
+                        href="https://www.facebook.com/"
+                        target="_blank"
+                        rel="noreferrer noopener"
+                        data-testid="linkElement"
+                        ><img alt="Facebook"
+                        /></a>
+                  </li>
+                  <li>
+                     <a
+                        href="https://twitter.com/"
+                        target="_blank"
+                        rel="noreferrer noopener"
+                        data-testid="linkElement"
+                        ><img alt="Twitter"
+                        /></a>
+                  </li>
+                  <li>
+                     <a
+                        href="https://www.tiktok.com/"
+                        target="_blank"
+                        rel="noreferrer noopener"
+                        data-testid="linkElement"
+                        ><img alt="TikTok "
+                        /></a>
+                  </li>
+               </ul>
+            </div>
+            <p>&copy; 2023 - Nome da clínica. Todos os direitos reservados.</p>
+         </footer>
+</body>
+</html>
