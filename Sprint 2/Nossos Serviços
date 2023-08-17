@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nossos Serviços</title>
+   </head>
+   <body>
     <header>
       <div>
          <img
@@ -28,11 +30,11 @@
    </header>
     <main>
         <section>
-            <h1>Nossos Serviços</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quas! Accusamus, eius at? Cumque quos culpa, possimus modi quia ab pariatur impedit corrupti! Sequi corrupti modi molestiae eligendi laboriosam repellendus!</p>
+            <h2>Nossos Serviços</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Quas magni corrupti consequatur quisquam expedita nisi ipsum ex porro. <br> Deleniti omnis accusantium obcaecati tenetur blanditiis eligendi. <br> Totam deserunt facilis reiciendis nihil.</p>
         </section>
-      </main>
-        <h2>Agendar consulta</h2>
+        <section>
+        <h3>Agendar consulta</h3>
         <div>
             <img
                src="imagens serviços" 
@@ -41,30 +43,38 @@
                alt=""
                /><br />
          </div>
-                <img
+         <div>
+            <img
                src="imagens serviços" 
                width="200px"
                height="200px"
                alt=""
                /><br />
          </div>
-                <img
+         <div>
+            <img
                src="imagens serviços" 
                width="200px"
                height="200px"
                alt=""
                /><br />
          </div>
+        </section>
          <section>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, enim alias numquam facere exercitationem libero corporis cum consectetur, voluptatem reiciendis nulla. Id fuga ratione labore magnam repellendus nihil ea? Saepe?</p>
-         </section>
-                    <img
+            <p> <strong>Lorem ipsum dolor</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloribus inventore ullam corporis, <br> ipsam quod harum molestiae consectetur numquam architecto sapiente temporibus? <br>Dignissimos optio mollitia fugit dolorem itaque beatae excepturi.</p>
+            <p><strong>Lorem ipsum dolor</strong></p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloribus inventore ullam corporis, <br> ipsam quod harum molestiae consectetur numquam architecto sapiente temporibus? <br>Dignissimos optio mollitia fugit dolorem itaque beatae excepturi.</p>
+         <div>
+            <img
                src="imagens serviços" 
                width="300px"
                height="300px"
                alt=""
                /><br />
          </div>
+         </section>
+      </main>
          <footer>
                <p>
                   Endereço: Rua cheia de buraco, nº Não tem - Bairro Bem longe -
