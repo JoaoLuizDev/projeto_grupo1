@@ -10,11 +10,11 @@
         <div>
            <img
               src="logo da clinica" 
-              width="200px"
-              height="200px"
+              width="100px"
+              height="100px"
               alt=""
               /><br />
-           <h1>Mamãe Clinic</h1> 
+           <h1>nome da clinica</h1> 
         </div>
         <nav>
            <div>
@@ -28,34 +28,37 @@
            </div>
         </nav>
      </header>
-     <div>
+      <main>
         <img
            src="foto bebe" 
            width="500px"
            height="200px"
            alt=""
            /><br />
-     </div>
-     <div>
+     <br>
+     <br>
         <img
            src="foto da clinica" 
            width="200px"
            height="200px"
            alt=""
            /><br />
-     </div>
-     <header>
+     <br>
+     <br>
         <section>
             <p>Sabemos que o maternar não é uma tarefa fácil, por isso
                 estamos aqui para te ajudar a passar pela fase mais desafiadora
-                na vida de uma mulher.</p>      
-            <section>
+                na vida de uma mulher.</p> 
                 <p>Contamos com especialistas que irão te auxiliar desde o 
                     pré natal ao puerpério.</p>
                 <p>Se você está em situação de vunerabilidade, conte conosco.</p>
-            <p>Estamos aqui para lhe proporcionar o acolhimento que você precisa.
-        Confira nossos serviços aqui.</p>
-        <nav>
+            <p>Estamos aqui para lhe proporcionar o acolhimento que você precisa.</p>
+         </section>
+         <section>   
+        Confira nossos serviços<a href="Nossos Serviços/index.html"> aqui</a></p>
+         </section>
+         <br>
+         <br>
             <div>
                 <p>O melhor atendimento que você e sua família merecem.</p>
                 <p>Consultoria presencial ou online.</p>
@@ -67,7 +70,6 @@
         </section>
         <section>
             <p>Veja também nossos últimos <a href="#">artigos</a></p>
-        </section>
         <div>
          <img
             src="logo da clinica"  
@@ -76,7 +78,10 @@
             alt=""
             /><br />
          </div>
-     </header>
+      </main>
+      <br>
+      <br>
+      <hr />
     <footer>
         <p>
            Endereço: Rua cheia de buraco, nº Não tem - Bairro Bem longe -
