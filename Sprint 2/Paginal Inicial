@@ -66,10 +66,9 @@
                     <a href="#">Fale Conosco</a>
                 </p>
             </div>
-        </nav>
         </section>
         <section>
-            <p>Veja também nossos últimos <a href="#">artigos</a></p>
+            <p>Veja também nossos últimos <a href="#">artigos:</a></p>
         <div>
          <img
             src="logo da clinica"  
@@ -78,6 +77,7 @@
             alt=""
             /><br />
          </div>
+       </section>
       </main>
       <br>
       <br>
