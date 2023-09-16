@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Nossos Serviços</title>
    </head>
    <body>
     <header>
       <div>
          <img
-            src="logo da clinica" 
-            width="200px"
-            height="200px"
-            alt=""
+            src="/src/img/logotipo.png" 
+            width="400px"
+            height="400px"
+            alt="MamaeClinic"
             /><br />
-         <h1>nome da clinica</h1> 
       </div>
       <nav>
          <div>
@@ -29,48 +29,136 @@
       </nav>
    </header>
     <main>
-        <section>
-            <h2>Nossos Serviços</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Quas magni corrupti consequatur quisquam expedita nisi ipsum ex porro. <br> Deleniti omnis accusantium obcaecati tenetur blanditiis eligendi. <br> Totam deserunt facilis reiciendis nihil.</p>
-        </section>
-        <section>
-        <h3>Agendar consulta</h3>
-        <div>
-            <img
-               src="imagem ilustrativa do serviço" 
-               width="200px"
-               height="200px"
-               alt=""
-               /><br />
-         </div>
-         <div>
-            <img
-               src="imagem ilustrativa do serviço" 
-               width="200px"
-               height="200px"
-               alt=""
-               /><br />
-         </div>
-         <div>
-            <img
-               src="imagem ilustrativa do serviço" 
-               width="200px"
-               height="200px"
-               alt=""
-               /><br />
-         </div>
-        </section>
-         <section>
-            <p> <strong>Lorem ipsum dolor</strong></p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloribus inventore ullam corporis, <br> ipsam quod harum molestiae consectetur numquam architecto sapiente temporibus? <br>Dignissimos optio mollitia fugit dolorem itaque beatae excepturi.</p>
-            <p><strong>Lorem ipsum dolor</strong></p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque doloribus inventore ullam corporis, <br> ipsam quod harum molestiae consectetur numquam architecto sapiente temporibus? <br>Dignissimos optio mollitia fugit dolorem itaque beatae excepturi.</p>
-         <div>
-            <img
-               src="imagens serviços" 
+      <section>
+        <div class="container"></div>
+            <h1>Nossos Serviços</h1>
+            <br>
+            <p>A MamãeClinic é uma clínica especializada em amamentação e cuidados maternos. Nossos serviços visam apoiar mães durante a fase crucial da maternidade, <br>
+               oferecendo orientações, apoio e educação sobre amamentação e cuidados com o bebê. Nossa equipe de profissionais qualificados está pronta para fornecer o <br>
+               suporte necessário para que as mães se sintam confiantes e preparadas nessa jornada única..</p>
+      </section>
+          <br>
+       <section>
+         <div class="container a"></div>
+               <img
+               src="./src/img/Image1.jpg"  
                width="300px"
                height="300px"
-               alt=""
+               alt="Ginecológica Geral"
+               /><br />
+               <section>
+                  <p><strong>Ginecologia Geral</strong></p>
+                  <br>
+                  <p>A ginecologia é uma especialidade médica dedicada à saúde feminina, abrangendo consultas de rotina, exames ginecológicos, <br>
+                     planejamento familiar, acompanhamento pré-natal, tratamento de distúrbios hormonais e problemas ginecológicos, como endometriose <br>
+                     ou miomas, além de cirurgias ginecológicas quando necessário. É essencial para a prevenção, diagnóstico e tratamento de condições <br>
+                     que afetam o sistema reprodutivo feminino, contribuindo para a saúde e o bem-estar ao longo da vida das mulheres.</p>
+                  <br>
+                  <p><strong>Principais Especialidades:</strong></p>
+                  <br>
+                  <p>Consulta Ginecológica Geral <br>
+                     Exames de Rotina <br>
+                     Planejamento Familiar <br>
+                     Consulta Pré-Natal <br>
+                     Tratamento de Infecções Ginecológicas <br>
+                     Acompanhamento de Gravidez <br>
+                     Ultrassonografia Ginecológica</p>
+               </section>
+               <br>
+               <br>
+      <section>
+         <div class="container b"></div>
+            <img
+            src="./src/img/Image2.jpg"  
+            width="300px"
+            height="300px"
+            alt="Obstetrícia"
+            /><br />
+            <section>
+               <p><strong>Obstetrícia</strong></p>
+               <br>
+               <p>A Obstetrícia é uma especialidade médica que se concentra na gestação, parto e pós-parto. Os obstetras prestam cuidados pré-natais, monitoram <br>
+                  o desenvolvimento fetal, auxiliam no trabalho de parto e realizam partos. Além disso, eles lidam com complicações gestacionais, garantindo a saúde <br>
+                  da mãe e do bebê. Essa especialidade desempenha um papel fundamental no acompanhamento da gravidez e na promoção de partos seguros e saudáveis.</p>
+            </section>
+            <br>
+         </div>
+      </section>
+      <section>
+         <div class="container c"></div>
+            <img
+            src="./src/img/Image6.jpg"  
+            width="300px"
+            height="300px"
+            alt="Laserterapia em traumas mamilares"
+            /><br />
+            <section>
+               <p><strong>Laserterapia em traumas mamilares</strong></p>
+               <br>
+               <p>Laserterapia é um procedimento não invasivo que utiliza luz laser de baixa intensidade para acelerar a cicatrização de traumas mamilares em lactantes. <br>
+                  Este tratamento suave ajuda a aliviar a dor, inflamação e desconforto associados a feridas ou rachaduras nos mamilos, proporcionando às mães uma experiência <br>
+                  mais confortável durante a amamentação.</p>
+            </section>
+            <br>
+      <section>
+         <div class="container d"></div>
+         <img
+         src="./src/img/Image5.jpg"  
+         width="300px"
+         height="300px"
+         alt="Exames"
+         /><br />
+         <section>
+            <p><strong>Exames</strong></p>
+            <br>
+            <p>Faça seus exames com cuidado, segurança e acolhimento.</p>
+            <br>
+            <p>Aqui no Mamãe clinic realizamos os exames que você precisa para cuidar da sua saúde em qualquer fase da vida, tais como:</p>
+            <br>
+            <p>Exames laboratoriais <br>
+               Colpocitologia oncótica (papanicolau) <br>
+               Ultrassom de abdômen total, superior, e transvaginal <br>
+               Ultrassom obstétrico <br>
+               Ultrassom morfológico <br>
+               Mamografia e USG em mamas</p>
+         </section>
+      </section>
+         <br>
+         </div>
+         <section>
+            <p><strong>Facilitando a sua jornada como mãe. Conheça também os <br>
+               nossos serviços de Consultoria em Amamentação.</strong></p>
+            <br>
+            <p><strong>Consultoria em Amamentação</strong></p>
+            <br>
+            <p>Oferecemos consultoria especializada em amamentação, com <br>
+               profissionais experientes que podem fornecer orientações, <br>
+               dicas e suporte para ajudar as mães a estabelecer uma <br>
+               amamentação bem-sucedida e superar possíveis desafios.</p>
+            <br>
+            <p><strong>Cuidados com o Bebê</strong></p>
+            <br>
+            <p>Nossos serviços incluem orientações e educação sobre os <br>
+               cuidados essenciais com o bebê, desde a higiene e banho <br>
+               até a alimentação adequada e o desenvolvimento infantil. <br>
+               Estamos aqui para ajudar as mães a se sentirem confiantes <br>
+               e preparadas para cuidar de seus bebês.</p>
+            <br>
+            <p><strong>Grupo de Apoio Materno</strong></p>
+            <br>
+            <p>Oferecemos grupos de apoio materno, onde as mães podem <br>
+               compartilhar experiências, obter suporte emocional e trocar <br>
+                informações valiosas sobre a maternidade. É um espaço seguro <br>
+                e acolhedor para se conectar com outras mães e construir uma <br>
+                rede de apoio.</p>
+            <br>
+         <section>
+            <div class="container d"></div>
+            <img
+               src="./src/img/Image9.jpg" 
+               width="400px"
+               height="400px"
+               alt="Consultoria em Amamentação"
                /><br />
          </div>
          </section>
