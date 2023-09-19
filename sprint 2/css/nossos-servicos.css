@@ -1,0 +1,74 @@
+body {
+    background-color:lightblue;
+    width: 100%;
+}
+
+.sobre {
+    max-width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.sobre h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #Fa7b7b;
+}
+
+.sobre-servicos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.sobre-texto {
+    width: 700px;
+    margin: 0 0 0 70px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 30px;
+}
+
+.sobre-texto ul {
+    margin: 0 0 0 20px;
+}
+
+.sobre-texto ul li {
+    padding: 5px 0 0 0;
+}
+
+.menu-servico {
+    display: flex;;
+}
+
+.menu-servicos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.menu-texto {
+    width: 250px;
+    margin: 0 0 0 70px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 30px;
+}
+
+.menu-texto h3 {
+    color: #Fa7b7b;
+}
+
+.ginecologia {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
