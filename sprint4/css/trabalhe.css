@@ -1,0 +1,122 @@
+body {
+    background-color: lightblue;
+    width: 100%;
+}
+
+.trabalhe {
+    max-width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.trabalhe h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #FA7B7B;
+}
+
+.trabalhe-empresa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.trabalhe-texto-1 {
+    width: 80%;
+    margin: 0 0 0 0;
+    padding: 20px;
+    background-color: #F9F9F9;
+    border-radius: 30px;
+}
+
+.trabalhe-servicos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.texto-procuramos {
+    width: 40%;
+    margin: 0 0 0 0;
+    padding: 20px;
+    background-color: #F9F9F9;
+    border-radius: 30px;
+}
+
+.texto-candidatar {
+    width: 40%;
+    margin: 0 0 0 0;
+    padding: 20px;
+    background-color: #F9F9F9;
+    border-radius: 30px;
+}
+
+
+.lista-motivos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.motivos-texto {
+    width: 80%;
+    margin: 0 0 0 0;
+    padding: 20px;
+    background-color: #F9F9F9;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.motivos-texto ul {
+    margin: 0 0 0 20px;
+}
+
+.motivos-texto ul li {
+    padding: 5px 0 0 0;
+}
+
+.vagas {
+    width: 90%;
+    margin: 0 0 0 0;
+    padding: 20px;
+    background-color: #F9F9F9;
+    border-radius: 30px;
+    margin-bottom: 40px;
+}
+
+.titulo-h3 {
+    justify-content: center;
+    align-items: center;
+    color: #FA7B7B;
+}
+
+nav a.active {
+    border-bottom: 2px solid #007BFF;
+}
+
+
+.negrito {
+    font-weight: bold;
+}
+
+.email-curriculo {
+    color: #FA7B7B;
+    font-weight: bold;
+}
+
+.imagem-curriculo {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+.imagem-curriculo img {
+    width: 250px;
+}
