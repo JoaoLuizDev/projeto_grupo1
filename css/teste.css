@@ -1,0 +1,58 @@
+body {
+    background: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.etapa {
+    display: none;
+    padding-bottom: 20px;
+}
+
+.etapa:first-child {
+    display: block;
+}
+
+.pergunta {
+    font-size: 18px;
+}
+
+.opcoes {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.comecar-button {
+    margin-top: 20px;
+}     
+
+#resultado {
+    margin: 20px;
+}
+
+.resultado-div {
+    text-transform: uppercase; /* Transforma o texto em maiúsculas */
+    color: red; /* Altera a cor do texto para vermelho (ou escolha a cor desejada) */
+    font-weight: bold; /* Deixa o texto em negrito, se desejar */
+    font-size: 24px; /* Altera o tamanho da fonte, se desejar */
+}

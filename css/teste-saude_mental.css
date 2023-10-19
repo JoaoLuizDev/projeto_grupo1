@@ -1,0 +1,88 @@
+/* Estilos gerais */
+body {
+    background: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para as etapas/perguntas */
+.etapa {
+    display: none;
+    padding-bottom: 20px;
+}
+
+.etapa:first-child {
+    display: block;
+}
+
+.pergunta {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.opcoes {
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Estilos para botões */
+button {
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para o resultado */
+#resultado {
+    margin: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Estilos para botões de voltar */
+.voltar {
+    background-color: #6c757d;
+}
+
+.voltar:hover {
+    background-color: #5a6268;
+}
+
+/* Estilos para botões de enviar */
+.enviar {
+    background-color: #28a745;
+}
+
+.enviar:hover {
+    background-color: #218838;
+}
